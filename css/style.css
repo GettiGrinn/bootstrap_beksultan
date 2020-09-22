@@ -1,0 +1,157 @@
+body{
+    font-family: 'Istok Web', sans-serif;}
+
+header{
+    background-color: #775ba3;
+
+}
+.fa-user
+{
+    color:white;
+}
+.fa-whmcs
+{
+    color:black;
+}
+
+span
+{
+    margin-top: 40px;
+}
+.col-lg-4 
+{
+    text-align: center;
+}
+
+.col-lg-4 p
+{
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+.navbar-collapse
+{
+    margin-left: 25px;
+}
+
+.nav-link{
+    margin-left: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.btn-user{
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    font-size: 24px;
+}
+.carousel-indicators li{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: transparent;
+    border: 2px solid #fff;
+}
+.carousel-indicators .active{
+    /* width: 8px;
+    height: 8px; */
+    border: none;
+    background-color: #fff;
+    margin-top: 2px;
+}
+
+.container h5,.sector-container h5{
+    text-align: center;
+    color: #775ba3;
+    font-size: 36px;
+    font-weight: bold;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.sector-container
+{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-left: 120px;
+    padding-right: 120px;
+    background-color: beige;
+    border-bottom-width: 1px;
+    border-top-width: 1px;
+    border-top-color: lightgreen;
+    border-top-style:solid;
+    border-bottom-color: lightgreen;
+    border-bottom-style:solid;
+}
+
+.since p{
+    text-align: center;
+    color: #4b3f55;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.col-md-4
+{
+  border-width: 0px;
+}
+
+
+hr
+{
+    
+    border-color: lightgreen;
+    border-width: 4px;
+   margin-top: 0px;
+
+}
+abbr
+{
+    font-size: 20px;
+     color: lightgreen;
+}
+.member-name
+{
+    font-size: 14px;
+    color: lightgreen;
+}
+h4
+{
+    color: lightgreen;
+    
+}
+
+.card-text p
+{
+    font-size: 14px;
+}
+
+.page-footer{
+    margin-top: 50px;
+    background-color: lightgreen ;
+}
+
+.btn{
+    height:40px;
+    border-radius: 0%;
+    border-style: hidden;
+}
+.red
+{
+    background-color:red;
+}
+
+
+.card-img-top
+{
+     border-radius: 0%;
+}
+.blue 
+{
+    background-color: deeppink;
+}
+
+.fa-twitter, .fa-youtube, .fa-globe, .fa-facebook-f, .fa-google-plus-g
+{
+    color:white;
+}
